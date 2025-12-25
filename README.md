@@ -1,6 +1,6 @@
 # Marketing-Analytics-of-E-Commerce-Sports-Shop
 
-🚀 New Marketing Analytics Portfolio Project – SQL | Python | Power BI | Excel
+##New Marketing Analytics Portfolio Project – SQL | Python | Power BI | Excel##
 
 Over the last few weeks, I built an end‑to‑end marketing analytics solution that connects raw data to decisions.
 
